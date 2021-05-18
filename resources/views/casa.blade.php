@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   CASA rama1 ok
+                   CASA rama1 okkkkk
                 </div>
                
                 
